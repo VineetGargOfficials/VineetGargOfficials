@@ -1,3 +1,5 @@
+[![MasterHead](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)]
+
 <h1 align="center">Hi 👋, I'm Vineet Garg</h1>
 <h3 align="center">Future-Focused Data Engineering Scholar | BCA Aspirant | An Aspiring Data Explorer</h3>
 
