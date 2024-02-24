@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Garg</h1>
 <h3 align="center">Future-Focused Data Engineering Scholar | BCA Aspirant | An Aspiring Data Explorer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/VineetGargOfficials/VineetGargOfficials/blob/main/com-webp-to-gif-converter-unscreen.gif">
 
 - 🌱 I’m currently learning **Data Engineering**
 
