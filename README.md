@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vineetgargonx" target="blank"><img src="https://img.shields.io/twitter/follow/vineetgargonx?logo=twitter&style=for-the-badge" alt="vineetgargonx" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Database, Computer Networking, NodeJS**
+- 💬 Ask me about **Database, Computer Networking, Data Amalysis**
 
 - 📫 How to reach me **contact.vineetgarg@gmail.com**
 
