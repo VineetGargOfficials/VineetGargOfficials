@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vineetgargonx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vineetgargonx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vineetgarg01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetgarg01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vineetgargprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetgarg01" height="30" width="40" /></a>
 <a href="https://instagram.com/vineet_garg_officials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineet_garg_officials" height="30" width="40" /></a>
 </p>
 
