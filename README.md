@@ -1,7 +1,7 @@
 ![Masterhead](https://github.com/VineetGargOfficials/VineetGargOfficials/blob/main/1755001777751.jpg)
 
 <h1 align="center">Hi 👋, I'm Vineet Garg</h1>
-<h3 align="center">Future-Focused Computer Engineering Scholar | BCA Aspirant | An Aspiring Data Explorer</h3>
+<h3 align="center">Future-Focused Computer Engineering Scholar | An Aspiring Data Explorer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/VineetGargOfficials/VineetGargOfficials/blob/main/com-webp-to-gif-converter-unscreen.gif">
 
